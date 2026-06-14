@@ -21,3 +21,6 @@ nav a { color: white; text-decoration: none; margin: 0 0.5rem; }
 button { background: #d35400; color: white; border: none; padding: 0.4rem 1rem; cursor: pointer; border-radius: 4px; }
 
 footer { text-align: center; padding: 1rem; background: #333; color: white; margin-top: 2rem; }
+
+/* erro de estilo */
+body { background: pink; }
