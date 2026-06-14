@@ -20,3 +20,6 @@ function exibirCardapio() {
 }
 
 exibirCardapio();
+
+const categorias = [...new Set(cardapio.map(i => i.categoria))];
+console.log("Categorias disponíveis:", categorias);
